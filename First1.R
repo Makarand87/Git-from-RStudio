@@ -5,3 +5,6 @@ summary(mtcars)
 # Added new line
 str(mtcars)
 
+
+
+head(mtcars)
