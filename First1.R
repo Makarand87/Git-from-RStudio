@@ -8,3 +8,4 @@ str(mtcars)
 
 # added line in GITHUB
 head(mtcars)
+# demo(graphics)
